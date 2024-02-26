@@ -1,6 +1,6 @@
 function Home() {
 
-    return <h1>Trocando a mensagem antes de enviar o Commit.</h1>
+    return <h1>Teste novo deploy no site.</h1>
    
 }
 
